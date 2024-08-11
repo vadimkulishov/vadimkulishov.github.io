@@ -81,6 +81,7 @@ body {
 }
 
 .header-menu-item{
+    margin-left: 25px;
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
